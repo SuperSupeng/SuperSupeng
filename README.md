@@ -3,9 +3,8 @@
 ### Hi there，I'm Subranium 🙋‍♂️
 
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](http://superssssss.cn/)
-[![HitCount](http://hits.dwyl.com/SuperSupeng/SuperSupeng.svg)](http://hits.dwyl.com/SuperSupeng/SuperSupeng)
 
-- Master's degree in NEU. Background development, cloud native and deep learning are involved.
+- Master's degree in NEU. Backend, cloud native and deep learning are involved.
 
 | CSDN                                      | juejin                                            | blog                           |
 | ----------------------------------------- | ------------------------------------------------- | ------------------------------ |
