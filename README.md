@@ -18,19 +18,18 @@
 const anmol = {
     pronouns: "He" | "Him",
     code: ["Go", "Python", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "cloud native"],
+    askMeAbout: ["web dev", "tech", "deep learning", "cloud native"],
     technologies: {
         mobileApp: ["Android App"],
         backEnd: {
-            go: ["gin", "beego"],
+            go: ["gin", "beego", "go-micro"],
             java: ["spring"]
-            python: ["flask"]
         },
-        devOps: ["AWS", "Docker🐳", "Traefik", "Nginx"],
-        databases: ["mongo", "MySql", "redis"]
+        DL: ["TensorFlow", "Keras"]
+        databases: ["MongoDB", "MySQL", "Redis"]
     },
-    architecture: ["Serverless Architecture", "Micro service", "Distributed system"],
-    currentFocus: "Comptetive Programming using Go",
+    architecture: ["Micro service", "Distributed system"],
+    currentFocus: "Comptetive Programming using Go and Cloud Native",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
