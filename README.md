@@ -25,7 +25,7 @@ const anmol = {
             go: ["gin", "beego", "go-micro"],
             java: ["spring"]
         },
-        DL: ["TensorFlow", "Keras"]
+        DL: ["TensorFlow", "Keras"],
         databases: ["MongoDB", "MySQL", "Redis"]
     },
     architecture: ["Micro service", "Distributed system"],
