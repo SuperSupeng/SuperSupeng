@@ -4,7 +4,7 @@
 
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](http://superssssss.cn/)
 
-- Master's degree in NEU. Backend, cloud native and deep learning are involved.
+- Master's degree in NEU. Backend, Distributed system and Deep learning are involved.
 
 | CSDN                                      | juejin                                            | blog                           |
 | ----------------------------------------- | ------------------------------------------------- | ------------------------------ |
@@ -18,18 +18,18 @@
 const anmol = {
     pronouns: "He" | "Him",
     code: ["Go", "Python", "Java"],
-    askMeAbout: ["web dev", "tech", "deep learning", "cloud native"],
+    askMeAbout: ["web dev", "tech", "deep learning", "distributed system", "Micro service"],
     technologies: {
         mobileApp: ["Android App"],
         backEnd: {
-            go: ["gin", "beego", "go-micro"],
-            java: ["spring"]
+            go: ["gin", "go-zero", "go-micro"],
+            java: ["spring cloud"]
         },
-        DL: ["TensorFlow", "Keras"],
+        DL: ["PyTorch", "TensorFlow", "Keras"],
         databases: ["MongoDB", "MySQL", "Redis"]
     },
-    architecture: ["Micro service", "Distributed system"],
-    currentFocus: "Comptetive Programming using Go and Cloud Native",
+    architecture: ["Cloud Native", "Distributed system"],
+    currentFocus: "Comptetive Programming using Go",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
