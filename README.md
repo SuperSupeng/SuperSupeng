@@ -2,15 +2,7 @@
 
 ### Hi there，I'm Subranium 🙋‍♂️
 
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](http://superssssss.cn/)
-
 - Master's degree in NEU. Backend, Distributed system and Deep learning are involved.
-
-| CSDN                                      | juejin                                            | blog                           |
-| ----------------------------------------- | ------------------------------------------------- | ------------------------------ |
-| [CSDN](https://blog.csdn.net/s_842499467) | [juejin](https://juejin.im/user/4125023359999181) | [blog](http://superssssss.cn/) |
-
-
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -39,5 +31,3 @@ const anmol = {
 ---
 
 [![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=SuperSupeng&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSupeng&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-![skyline](supersupeng-2020.stl)
