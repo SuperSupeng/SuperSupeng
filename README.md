@@ -1,8 +1,10 @@
 ![gif](https://github.com/SuperSupeng/SuperSupeng/blob/master/about.gif)
 
 ### Hi there，I'm Subranium 🙋‍♂️
+You can call me super if you like.
 
-- Master's degree in NEU. Backend, Distributed system and Deep learning are involved.
+- Cloud native + Machine learning is something I'm interested in.
+- Distributed systems is an area I'm focusing on right now.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -15,10 +17,10 @@ const anmol = {
         mobileApp: ["Android App"],
         backEnd: {
             go: ["gin", "go-zero", "go-micro"],
-            java: ["spring cloud"]
+            java: ["Spring Boot"]
         },
         DL: ["PyTorch", "TensorFlow", "Keras"],
-        databases: ["MongoDB", "MySQL", "Redis"]
+        databases: ["MongoDB", "MySQL", "Redis", "TIDB"]
     },
     architecture: ["Cloud Native", "Distributed system"],
     currentFocus: "Comptetive Programming using Go",
