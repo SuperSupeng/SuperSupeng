@@ -33,3 +33,7 @@ const anmol = {
 ---
 
 [![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=SuperSupeng&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSupeng&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![MIT 6.824](https://github-readme-stats.vercel.app/api/pin/?username=superSupeng&repo=MIT6.824)](https://github.com/SuperSupeng/MIT6.824)
+[![super tools](https://github-readme-stats.vercel.app/api/pin/?username=superToolsCollection&repo=STFrontground-backend)](https://github.com/superToolsCollection/STFrontground-backend)
