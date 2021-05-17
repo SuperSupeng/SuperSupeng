@@ -36,6 +36,5 @@ const anmol = {
 
 
 [![st papers](https://github-readme-stats.vercel.app/api/pin/?username=Knowledge-Precipitation-Tribe&repo=Spatio-Temporal-papers&theme=merko)](https://github.com/Knowledge-Precipitation-Tribe/Spatio-Temporal-papers)
-[![st papers](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=spatio-temporal-papers&theme=merko)](https://github.com/datawhalechina/spatio-temporal-papers)
 [![team-learning-program](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=team-learning-program&theme=merko)](https://github.com/datawhalechina/team-learning-program)
 [![team-learning](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=team-learning&theme=merko)](https://github.com/datawhalechina/team-learning)
