@@ -11,7 +11,7 @@ You can call me super if you like.
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Go", "Python", "Java"],
+    code: ["Go", "Rust", "Python", "Java"],
     askMeAbout: ["web dev", "tech", "deep learning", "distributed system", "Micro service"],
     technologies: {
         mobileApp: ["Android App"],
@@ -20,10 +20,10 @@ const anmol = {
             java: ["Spring Boot"]
         },
         DL: ["PyTorch", "TensorFlow", "Keras"],
-        databases: ["MongoDB", "MySQL", "Redis", "TIDB"]
+        databases: ["MongoDB", "MySQL", "Redis", "TiDB"]
     },
     architecture: ["Cloud Native", "Distributed system"],
-    currentFocus: "Comptetive Programming using Go",
+    currentFocus: "Comptetive Programming using Go and Rust",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
