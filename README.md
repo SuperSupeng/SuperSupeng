@@ -5,6 +5,7 @@ You can call me super if you like.
 
 - Cloud native + Machine learning is something I'm interested in.
 - Distributed systems is an area I'm focusing on right now.
+- LeetCode: [subranium](https://leetcode-cn.com/u/superssssss/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
