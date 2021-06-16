@@ -1,4 +1,6 @@
-![gif](https://github.com/SuperSupeng/SuperSupeng/blob/master/about.gif)
+<p align="center">
+  <img alig src="https://github.com/SuperSupeng/SuperSupeng/blob/master/about.gif" />
+</p>
 
 ### Hi there，I'm Subranium 🙋‍♂️
 You can call me super if you like.
