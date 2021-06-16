@@ -35,9 +35,7 @@ const anmol = {
 ```
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=SuperSupeng&theme=rogue)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuperSupeng&theme=react)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=SuperSupeng&theme=nord)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SuperSupeng)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
