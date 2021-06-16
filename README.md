@@ -35,7 +35,9 @@ const anmol = {
 ```
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=SuperSupeng&theme=rogue)
-[![trophy](https://github-profile-trophy.vercel.app/?username=SuperSupeng)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=SuperSupeng&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
