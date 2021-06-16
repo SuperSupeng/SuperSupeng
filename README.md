@@ -45,9 +45,11 @@ const anmol = {
 
 ---
 
-[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=SuperSupeng&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSupeng&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=SuperSupeng&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSupeng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![st papers](https://github-readme-stats.vercel.app/api/pin/?username=Knowledge-Precipitation-Tribe&repo=Spatio-Temporal-papers&theme=merko)](https://github.com/Knowledge-Precipitation-Tribe/Spatio-Temporal-papers)
-[![team-learning-program](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=team-learning-program&theme=merko)](https://github.com/datawhalechina/team-learning-program)
-[![team-learning](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=team-learning&theme=merko)](https://github.com/datawhalechina/team-learning)
+[![st papers](https://github-readme-stats.vercel.app/api/pin/?username=Knowledge-Precipitation-Tribe&repo=Spatio-Temporal-papers)](https://github.com/Knowledge-Precipitation-Tribe/Spatio-Temporal-papers)
+[![team-learning-program](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=team-learning-program)](https://github.com/datawhalechina/team-learning-program)
+[![team-learning](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=team-learning)](https://github.com/datawhalechina/team-learning)
+[![Distributed-system](https://github-readme-stats.vercel.app/api/pin/?username=SuperSupeng&repo=Distributed-system)](https://github.com/SuperSupeng/Distributed-system)
