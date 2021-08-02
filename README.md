@@ -33,7 +33,6 @@ const anmol = {
 };
 ```
 
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=SuperSupeng&theme=rogue)
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=SuperSupeng&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
