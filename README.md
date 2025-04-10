@@ -1,10 +1,29 @@
-<p align="center">
-  <img alig src="https://github.com/SuperSupeng/SuperSupeng/blob/master/about.gif" />
-</p>
+【MBTI】ENFJ-A
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=SuperSupeng&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+【Base地】上海（有一颗当数字游民的心💓），一个喜欢文艺的东北人
 
-### Hi there，I'm Subranium 🙋‍♂️
+【我是谁？我从哪里来？】
+- 写过代码、做过产品、还搞过商务和社区运营，为什么做了这么多，是相信人生没有绝对的意义，本质是体验
+- 从小在乡村长大，下河摸过鱼，烤过青蛙，喜欢一切与自然有关的事情，在追求城乡之间的平衡与结合，未来想和朋友们搞个养老村
+- 闲不下来，总是想找点事情做。
 
-- Open source is something I'm interested in.
-- Artificial intelligence is an area I'm focusing on right now.
+【我在做什么】
+- 探索 AI 时代的创业新范式，超级个体 and 一人公司 and 数字游民如何重塑创业生态，在做 AI 方向创业
+- 关注 AI 硬件，玩过树莓派，焊过电路板，喜欢看得见摸得着的东西
+- 创新教育与教育平权是我会以生命长度为单位去做的事情，在 Datawhale 发起了公益组，关注青少年 AI 教育
+- 对社会演进的新形态感兴趣，想知道例如 DAO、社区营造、青色组织、附近，是如何塑造一个人的
+
+【我与 AI 的故事】
+- 计算机科班出身，通过学习 AI 了解并加入到了开源学习组织 Datawhale，作为资深志愿者与 Datawhale 共同成长了6 年
+- 带 team 开发过 AI + 数据库的 SaaS 产品
+- 在做几个和 AI 相关的事情
+  - InspireX：用科技，见未来。真实需求场景下的，最好用的 AI 产品的最佳实践
+  - AI 产品出海知识库，关注出海最后一公里
+  - wonder-how：可交互的 AI 导航站
+  - 如何让更多人学习与了解 AI，构建 AI 学习指南 ing，打造城市系列活动 Un-AI：让每个人都能听得懂 AI；Use-AI：让每个人都能用的上 AI
+
+【如何找到我】
+- 微信：subranium
+- 即刻：Darren_su
+- 我能提供的：各种生态的有机连接，擅长构建 Win-win 式合作
+- 我需要帮助的：美感不足，UI 一窍不通；
