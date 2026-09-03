@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
   <title id="title">Darren Su terminal identity</title>
-  <desc id="desc">Acid-pink terminal profile banner connecting Datawhale, MatchPoint, AGI Villa, and open-source building.</desc>
+  <desc id="desc">Acid-pink terminal profile banner for Darren Su, connecting Datawhale, MatchPoint, AGI Villa, and open-source building.</desc>
 
   <defs>
     <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
@@ -53,25 +53,25 @@
     <path d="M24 69H1176" stroke="#090909" stroke-opacity="0.28"/>
 
     <text x="54" y="105" fill="#5c2440" font-size="17">Darren@SuperSupeng:~$</text>
-    <text x="272" y="105" fill="#090909" font-size="17" font-weight="700">./boot --identity</text>
+    <text x="272" y="105" fill="#090909" font-size="17" font-weight="700">./boot --builder</text>
 
     <text x="54" y="147" fill="#090909" font-size="15" font-weight="700">[  OK  ]</text>
     <text x="143" y="147" fill="#090909" font-size="15" font-weight="700">DATAWHALE_OPEN_SOURCE</text>
-    <text x="380" y="147" fill="#672c47" font-size="14">community · governance · AI education</text>
+    <text x="380" y="147" fill="#672c47" font-size="14">open source · community · learning</text>
 
     <text x="54" y="180" fill="#090909" font-size="15" font-weight="700">[ LIVE ]</text>
     <rect x="137" y="160" width="119" height="27" rx="5" fill="#dce72e" stroke="#090909" stroke-width="2"/>
     <text x="147" y="180" fill="#090909" font-size="15" font-weight="700">MATCHPOINT</text>
-    <text x="271" y="180" fill="#672c47" font-size="14">agent-native career exploration · evidence</text>
+    <text x="271" y="180" fill="#672c47" font-size="14">career infrastructure · human evidence</text>
 
     <text x="54" y="213" fill="#090909" font-size="15" font-weight="700">[ RUN  ]</text>
     <text x="143" y="213" fill="#090909" font-size="15" font-weight="700">AGI_VILLA</text>
-    <text x="271" y="213" fill="#672c47" font-size="14">AI builder accelerator · product incubation</text>
+    <text x="271" y="213" fill="#672c47" font-size="14">builders · products · experiments</text>
 
     <text x="54" y="261" fill="#5c2440" font-size="17">Darren@SuperSupeng:~$</text>
-    <text x="272" y="261" fill="#090909" font-size="17" font-weight="700">cat current_focus.txt</text>
-    <text x="54" y="298" fill="#090909" font-size="20" font-weight="800">Building AI-native products and open-source networks</text>
-    <text x="54" y="327" fill="#492137" font-size="16" font-weight="600">that turn ideas into working systems.</text>
+    <text x="272" y="261" fill="#090909" font-size="17" font-weight="700">cat operating_principle.txt</text>
+    <text x="54" y="298" fill="#090909" font-size="20" font-weight="800">BUILDING SYSTEMS WHERE AI MEETS PEOPLE</text>
+    <text x="54" y="327" fill="#492137" font-size="16" font-weight="600">open source · real products · useful work</text>
 
     <rect x="54" y="359" width="395" height="36" rx="7" fill="#dce72e" stroke="#090909" stroke-width="3"/>
     <circle cx="73" cy="377" r="4" fill="#090909"/>

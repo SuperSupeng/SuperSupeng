@@ -1,68 +1,78 @@
 <p align="center">
-  <img width="100%" alt="Darren Su — AI builder, Datawhale contributor, and founder of AGI Villa" src="./assets/terminal-hero.svg" />
+  <img width="100%" alt="Darren Su — building systems where AI meets people" src="./assets/terminal-hero.svg" />
 </p>
 
-# Darren Su / SuperSupeng
-
-**AI Builder · [Datawhale](https://github.com/datawhalechina) Contributor · Founder of [AGI Villa](https://agivilla.feishu.cn/wiki/ArG4wXniVi5A2lkAIf9coosLnKc?from=from_copylink) · Open-source Community Builder**
-
-I build **AI agents, digital organizations, and AI-native products**, and help builders turn ideas into working systems through open-source collaboration.
-
-我专注于 **AI Agent、数字组织、AI 原生产品和开源社区建设**，让想法通过产品与社区协作真正运行起来。
-
-`location: Shanghai, China` · `status: building in public`
-
-## `$ tree ~/datawhale`
-
-My open-source journey is deeply connected with **Datawhale**, where I work across open-source governance, team learning, AI education, and contributor collaboration.
-
 ```text
-datawhale/
-├── DOPMC/          open-source project governance
-├── team-learning/  community-led learning programs
-├── hire-your-ai/   digital coworkers & AI agent teams
-└── community/      contributors · education · incubation
+$ whoami
+Darren Su / SuperSupeng
+AI builder · open-source operator · community architect
+
+$ where
+Shanghai, China
 ```
 
-- **[DOPMC](https://github.com/datawhalechina/DOPMC)** — contributing to open-source project governance and the Datawhale Open-source Project Management Committee.
-- **[Team Learning](https://github.com/datawhalechina/team-learning)** — supporting cohort-based, community-led AI learning.
-- **[Hire Your AI](https://github.com/SuperSupeng/hire-your-ai)** — content initiator of an open-source learning program for building digital coworkers and AI agent teams.
+I build products and communities at the intersection of **AI, people, and open source**.
 
-> Datawhale shaped how I think about open-source governance, AI education, contributor growth, and community-driven product incubation.
+我在 **AI、真实的人和开源社区** 的交汇处创造产品与连接。
 
-## `$ ps --active`
+---
+
+## `01 / SHIPPING`
+
+### [MatchPoint](https://matchpoint.careers) `// LIVE`
+
+**Agent-native career infrastructure for finding work worth doing.**
+
+MatchPoint uses AI career conversations and traceable human evidence to help people explore roles and apply with more than a résumé. It can be accessed from the web—or directly through MCP-compatible agents such as Codex and Claude Code.
+
+`AI CAREER CONVERSATIONS` · `TRACEABLE EVIDENCE` · `MCP` · `HUMAN CONTROL`
+
+→ **[Enter MatchPoint](https://matchpoint.careers)**
+
+---
+
+## `02 / OPEN-SOURCE NETWORK`
+
+### [Datawhale](https://github.com/datawhalechina) `// CONNECTED`
+
+I contribute to Datawhale across **open-source governance, community learning, AI education, and contributor collaboration**.
 
 ```text
-PID   STATUS    SYSTEM             MISSION
-001   RUNNING   AGI_VILLA          help AI builders ship real products
-002   LIVE      MATCHPOINT         help people find roles worth exploring
-003   BUILDING  SUPERCLAW          make digital organizations programmable
-004   LEARNING  HIRE_YOUR_AI       teach people to build digital coworkers
+DATAWHALE_NETWORK
+├── DOPMC          project governance
+├── team-learning  learning in public
+└── community      contributors connecting contributors
 ```
 
-## `$ ls ~/featured-projects`
+[DOPMC](https://github.com/datawhalechina/DOPMC) · [Team Learning](https://github.com/datawhalechina/team-learning) · [Datawhale GitHub](https://github.com/datawhalechina)
 
-| Project | What it does |
-| --- | --- |
-| **[MatchPoint](https://matchpoint.careers)** | An agent-native career exploration and job application system that uses AI conversations and traceable behavioral evidence to help people find roles worth exploring. It can also connect directly with Codex, Claude Code, and other MCP-compatible agents. |
-| **[SuperClaw](https://github.com/SuperSupeng/SuperClaw)** | A TypeScript framework for digital organizations with AI roles, reporting lines, async collaboration, channels, and memory. |
-| **[Hire Your AI](https://github.com/SuperSupeng/hire-your-ai)** | An open-source Datawhale learning program for building digital coworkers and AI agent teams—not merely better prompts. |
-| **[Global Tech Events](https://github.com/SuperSupeng/GlobalTechEvents)** | A global event discovery platform for founders, builders, digital nomads, and remote workers. **[Visit →](https://globaltechevents.xyz)** |
-| **[AI Application Development for Beginners](https://github.com/SuperSupeng/AI-Application-Development-for-Beginners)** | A practical, project-based guide to vibe coding and end-to-end AI application development. |
-| **[Agent Store](https://github.com/SuperSupeng/Agent-Store)** | A discovery and enablement layer for AI agents, prompts, workflows, and reusable skill stacks. |
+---
 
-## `$ cat current_focus.txt`
+## `03 / BUILDERS`
 
-- Designing **multi-agent systems and digital organizations** with memory, delegation, reporting lines, and human oversight.
-- Building **agent-native career infrastructure** where people can explore roles and preserve evidence without being reduced to opaque scores.
-- Turning early ideas into **deployed AI-native products** through rapid validation and iteration.
-- Exploring **AI + hardware interfaces** and new ways for intelligence to interact with the physical world.
-- Building **open-source learning systems and builder communities** that help more people ship meaningful work.
+### [AGI Villa](https://agivilla.feishu.cn/wiki/ArG4wXniVi5A2lkAIf9coosLnKc?from=from_copylink) `// BUILDING`
 
-## `$ connect --all`
+An AI Builder Accelerator for turning early ideas into shipped products, hardware experiments, and open-source work.
 
-[Website](https://darren-chi.vercel.app) · [Repositories](https://github.com/SuperSupeng?tab=repositories) · [Datawhale](https://github.com/datawhalechina) · [AGI Villa](https://agivilla.feishu.cn/wiki/ArG4wXniVi5A2lkAIf9coosLnKc?from=from_copylink)
+`BUILDERS` · `AI-NATIVE PRODUCTS` · `HARDWARE` · `COMMUNITY-LED GROWTH`
+
+---
+
+## `04 / FIELD NOTES`
+
+### [Global Tech Events](https://github.com/SuperSupeng/GlobalTechEvents) `// MAPPING`
+
+A living map of technology events for founders, builders, digital nomads, and remote workers around the world.
+
+→ **[Explore the map](https://globaltechevents.xyz)**
+
+---
 
 ```text
-Darren@SuperSupeng:~$ _
+$ connect --all
+web      darren-chi.vercel.app
+github   github.com/SuperSupeng
+network  github.com/datawhalechina
+
+$ _
 ```
