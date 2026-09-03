@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Darren Su terminal identity</title>
+  <desc id="desc">Acid-pink terminal profile banner connecting Datawhale, MatchPoint, AGI Villa, and open-source building.</desc>
+
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f487b8"/>
+      <stop offset="0.55" stop-color="#ee79ad"/>
+      <stop offset="1" stop-color="#e96fa6"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#dce72e"/>
+      <stop offset="0.52" stop-color="#f7f0d5"/>
+      <stop offset="1" stop-color="#dce72e"/>
+    </linearGradient>
+    <radialGradient id="nodeGlow">
+      <stop offset="0" stop-color="#e5ef31" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#e5ef31" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#fff8e7" stroke-opacity="0.16"/>
+    </pattern>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="screenClip">
+      <rect x="18" y="18" width="1164" height="404" rx="17"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="440" rx="24" fill="#090909"/>
+  <rect x="8" y="8" width="1184" height="424" rx="20" fill="url(#panel)" stroke="#090909" stroke-width="4"/>
+  <rect x="18" y="18" width="1164" height="404" rx="17" fill="url(#grid)"/>
+  <rect x="18" y="18" width="1164" height="4" rx="2" fill="url(#edge)"/>
+
+  <g clip-path="url(#screenClip)">
+    <circle cx="1100" cy="322" r="220" fill="#dce72e" opacity="0.08"/>
+    <circle cx="975" cy="145" r="145" fill="#fff5d9" opacity="0.09"/>
+    <path d="M0 387H1200" stroke="#fff8e7" stroke-opacity="0.18">
+      <animate attributeName="d" values="M0 387H1200;M0 48H1200;M0 387H1200" dur="8s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <g font-family="'SFMono-Regular','Cascadia Code','JetBrains Mono',Consolas,monospace">
+    <circle cx="43" cy="44" r="5" fill="#090909"/>
+    <circle cx="61" cy="44" r="5" fill="#dce72e"/>
+    <circle cx="79" cy="44" r="5" fill="#fff4d9"/>
+    <text x="600" y="49" text-anchor="middle" fill="#5c2440" font-size="13">darren@supersupeng: ~/identity</text>
+    <path d="M24 69H1176" stroke="#090909" stroke-opacity="0.28"/>
+
+    <text x="54" y="105" fill="#5c2440" font-size="17">Darren@SuperSupeng:~$</text>
+    <text x="272" y="105" fill="#090909" font-size="17" font-weight="700">./boot --identity</text>
+
+    <text x="54" y="147" fill="#090909" font-size="15" font-weight="700">[  OK  ]</text>
+    <text x="143" y="147" fill="#090909" font-size="15" font-weight="700">DATAWHALE_OPEN_SOURCE</text>
+    <text x="380" y="147" fill="#672c47" font-size="14">community · governance · AI education</text>
+
+    <text x="54" y="180" fill="#090909" font-size="15" font-weight="700">[ LIVE ]</text>
+    <rect x="137" y="160" width="119" height="27" rx="5" fill="#dce72e" stroke="#090909" stroke-width="2"/>
+    <text x="147" y="180" fill="#090909" font-size="15" font-weight="700">MATCHPOINT</text>
+    <text x="271" y="180" fill="#672c47" font-size="14">agent-native career exploration · evidence</text>
+
+    <text x="54" y="213" fill="#090909" font-size="15" font-weight="700">[ RUN  ]</text>
+    <text x="143" y="213" fill="#090909" font-size="15" font-weight="700">AGI_VILLA</text>
+    <text x="271" y="213" fill="#672c47" font-size="14">AI builder accelerator · product incubation</text>
+
+    <text x="54" y="261" fill="#5c2440" font-size="17">Darren@SuperSupeng:~$</text>
+    <text x="272" y="261" fill="#090909" font-size="17" font-weight="700">cat current_focus.txt</text>
+    <text x="54" y="298" fill="#090909" font-size="20" font-weight="800">Building AI-native products and open-source networks</text>
+    <text x="54" y="327" fill="#492137" font-size="16" font-weight="600">that turn ideas into working systems.</text>
+
+    <rect x="54" y="359" width="395" height="36" rx="7" fill="#dce72e" stroke="#090909" stroke-width="3"/>
+    <circle cx="73" cy="377" r="4" fill="#090909"/>
+    <text x="88" y="382" fill="#090909" font-size="13" font-weight="800" letter-spacing="0.8">SHANGHAI · BUILDING IN PUBLIC</text>
+
+    <g opacity="0.9">
+      <text x="806" y="103" fill="#5c2440" font-size="12" font-weight="700" letter-spacing="1.5">OPEN_SOURCE_NETWORK</text>
+      <path d="M827 161L936 126L1054 178L984 275L854 262L827 161Z" fill="none" stroke="#090909" stroke-width="2"/>
+      <path d="M827 161L984 275M936 126L854 262M936 126L984 275M827 161L1054 178M854 262L1054 178" fill="none" stroke="#090909" stroke-opacity="0.58" stroke-width="1.5"/>
+      <circle cx="827" cy="161" r="24" fill="url(#nodeGlow)" opacity="0.45"/>
+      <circle cx="827" cy="161" r="7" fill="#dce72e" stroke="#090909" stroke-width="2"/>
+      <circle cx="936" cy="126" r="6" fill="#fff4d9" stroke="#090909" stroke-width="2"/>
+      <circle cx="1054" cy="178" r="6" fill="#dce72e" stroke="#090909" stroke-width="2"/>
+      <circle cx="984" cy="275" r="6" fill="#fff4d9" stroke="#090909" stroke-width="2"/>
+      <circle cx="854" cy="262" r="6" fill="#dce72e" stroke="#090909" stroke-width="2"/>
+      <text x="795" y="151" fill="#090909" font-size="11" font-weight="800">DATAWHALE</text>
+      <text x="915" y="111" fill="#492137" font-size="11" font-weight="700">BUILDERS</text>
+      <text x="1058" y="181" fill="#492137" font-size="11" font-weight="700">AGENTS</text>
+      <text x="991" y="295" fill="#492137" font-size="11" font-weight="700">PRODUCTS</text>
+      <text x="802" y="282" fill="#492137" font-size="11" font-weight="700">COMMUNITY</text>
+      <circle cx="912" cy="208" r="4" fill="#090909">
+        <animate attributeName="cx" values="827;1054;984;854;827" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="161;178;275;262;161" dur="6s" repeatCount="indefinite"/>
+      </circle>
+      <text x="807" y="334" fill="#5c2440" font-size="12" font-weight="700">signal_strength</text>
+      <rect x="932" y="324" width="137" height="11" rx="5" fill="#f7f0d5" stroke="#090909" stroke-width="2"/>
+      <rect x="935" y="327" width="119" height="5" rx="2.5" fill="#dce72e"/>
+      <text x="1080" y="334" fill="#090909" font-size="12" font-weight="800">98%</text>
+    </g>
+
+    <rect x="455" y="369" width="9" height="17" rx="1" fill="#090909">
+      <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
