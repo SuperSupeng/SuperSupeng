@@ -1,62 +1,76 @@
 <p align="center">
-  <img width="100%" alt="Darren Su — AI Product Builder and China AI Ecosystem Operator" src="./assets/editorial-hero-v4.svg" />
+  <img width="100%" alt="Darren Su — AI products, developer communities, and technology events" src="./assets/editorial-hero-v5.svg" />
 </p>
 
 # Darren Su (苏鹏)
 
-**AI Product Builder & China AI Ecosystem Operator — Shanghai, China**
+**AI Products · Developer Communities · Technology Events — Hangzhou, China**
 
-Darren Su (苏鹏, [@SuperSupeng](https://github.com/SuperSupeng)) is a Shanghai-based AI product builder and China AI ecosystem operator. He is a **Datawhale City Lead**, **co-founder of AGI Villa**, and the builder behind **MatchPoint** and **GlobalTechEvents**.
+Darren Su (苏鹏, [@SuperSupeng](https://github.com/SuperSupeng)) is a Hangzhou-based AI product builder and developer ecosystem organizer. He is a **Datawhale City Lead**, **AGI Villa co-founder**, and the builder behind **MatchPoint**.
 
-I help global AI, robotics, hardware, and open-source teams understand China, connect with relevant builders and partners, and test ideas through real products, field feedback, and community programs.
+I organize developer programs across China, help early AI products meet their first users, and continue building products of my own. My recent work spans nationwide community programs, product co-creation workshops, cross-border technology exchanges, and talks about working with AI agents.
 
-苏鹏常驻上海，专注于 AI 产品构建、开源社区与中国科技生态连接，通过真实产品、社区项目和一线反馈，让想法更快落地。
+苏鹏常驻杭州，是一名 AI 产品构建者与开发者生态组织者。他发起和组织开发者项目，帮助早期 AI 产品接触首批用户，并持续构建 MatchPoint 等产品。
 
-[Personal website & field notes](https://www.darren-su.com/en) · [MatchPoint](https://matchpoint.careers) · [Datawhale](https://github.com/datawhalechina) · [GlobalTechEvents](https://globaltechevents.xyz)
+[Selected work](https://www.darren-su.com/en/work) · [MatchPoint](https://matchpoint.careers) · [Products](https://www.darren-su.com/en/build) · [Writing](https://www.darren-su.com/en/blog) · [About Darren](https://www.darren-su.com/en/about)
 
-> **Build products. Connect builders. Learn in public.**
+> **Real projects. Real rooms. Real feedback.**
 
-## Building MatchPoint
+## Selected Work
 
-### [MatchPoint — AI career exploration grounded in human evidence](https://matchpoint.careers)
+| Project | My role | Result |
+| --- | --- | --- |
+| [AI+X Creation Festival](https://www.darren-su.com/en/work/aix-creation-festival) | Initiator and program lead | A coordinated developer program across **40 cities in China** |
+| [Rumata Product Co-creation Workshop](https://www.darren-su.com/en/work/rumata-workshop) | Initiator and program lead | Around **50 participants** completed a first round of hands-on product feedback |
+| [SuperAI's China Visit](https://www.darren-su.com/en/work/superai-china) | Ecosystem partner and local liaison | Visits and exchanges across **Hangzhou, Shanghai, and Singapore** |
+| [A Digital Organization with 31 Agents](https://www.darren-su.com/en/work/agent-speaking) | Author and invited speaker | A real working system that led to talks and collaboration invitations |
 
-MatchPoint helps people find work worth exploring through AI career conversations, job-specific deep dives, and traceable behavioral evidence—not just résumé keywords.
+[Explore all projects and case studies](https://www.darren-su.com/en/work)
 
-- **For people:** clarify strengths, explore roles, and build evidence they can understand and control.
-- **For AI agents:** access career context through an MCP-compatible product surface.
-- **Design principle:** AI assists the decision; the person keeps agency.
+## Building Products
 
-[Explore MatchPoint](https://matchpoint.careers)
+### [MatchPoint — career exploration grounded in human evidence](https://matchpoint.careers)
 
-## Datawhale Open Source & Community
+MatchPoint grew out of repeated conversations with founders about hiring. It helps people explore roles and represent how they think and act through AI career conversations, job-specific deep dives, and traceable behavioral evidence. The product is live and is now being used in real hiring.
 
-As a **Datawhale City Lead**, I help turn open-source AI knowledge into local programs, contributor relationships, and learning experiences. My Datawhale work spans community building, project leadership, open collaboration, and learning in public.
+**AI CAREER CONVERSATIONS** · **TRACEABLE EVIDENCE** · **MCP** · **HUMAN AGENCY**
 
-- **[VCED — Video Clip Extraction by Description](https://github.com/datawhalechina/vced):** project lead for an open-source multimodal search and video editing project.
-- **[DOPMC](https://github.com/datawhalechina/DOPMC):** open project governance, contributor coordination, and public collaboration.
-- **[Team Learning](https://github.com/datawhalechina/team-learning):** structured collaborative learning across AI and software topics.
-- **[Datawhale](https://github.com/datawhalechina):** an AI-focused open-source community built around “for the learner.”
+### Other live products
 
-## Building Communities and Field Infrastructure
+- **[GlobalTechEvents](https://globaltechevents.xyz):** a global technology event index for founders, builders, digital nomads, and remote communities.
+- **[Datawhale AI+X Events](https://aixevents.datawhale.cn):** a community calendar for practical AI meetups, workshops, hackathons, and co-creation programs.
 
-### [AGI Villa — AI Builder Accelerator](https://agivilla.feishu.cn/wiki/ArG4wXniVi5A2lkAIf9coosLnKc?from=from_copylink)
+[View products and experiments](https://www.darren-su.com/en/build)
 
-As co-founder of AGI Villa, I work with builders turning early ideas into shipped AI products, hardware experiments, and open-source projects through community-led execution.
+## Datawhale, Open Source, and Developer Communities
 
-### [GlobalTechEvents — a living map for global builders](https://github.com/SuperSupeng/GlobalTechEvents)
+I joined **Datawhale** in 2019 as an AI learner, then became a contributor, teaching assistant, organizer, and City Lead. The work taught me to see community as more than distribution: it is where trust, useful feedback, and opportunities become visible.
 
-GlobalTechEvents maps technology events for founders, builders, digital nomads, and remote workers looking for the right communities around the world.
+- **[Datawhale city and developer ecosystem](https://www.darren-su.com/en/work/datawhale-city-ecosystem):** city programs and developer community work across China.
+- **[VCED](https://github.com/datawhalechina/vced):** project lead for an open-source multimodal search and video editing project.
+- **[DOPMC](https://github.com/datawhalechina/DOPMC):** open project governance and contributor collaboration.
+- **[Team Learning](https://github.com/datawhalechina/team-learning):** structured, community-led learning across AI and software topics.
 
-[Browse the GlobalTechEvents map](https://globaltechevents.xyz)
+As **AGI Villa co-founder**, I also work with AI founders and builders turning early ideas into products, workshops, and projects that can meet real users.
 
-## China AI Field Notes
+## Engineering Roots
 
-I write about **China AI, robotics, hardware, supply chains, open-source communities, and field-level market signals**—with an emphasis on what builders can actually use.
+**TiCDC at PingCAP → AI infrastructure and vector databases → Datawhale → AGI Villa → MatchPoint**
 
-[Read Darren Su's field notes](https://www.darren-su.com/en)
+I started from engineering and still use that discipline in community and product work: understand how something is actually used, make the problem specific, and test it in the real world.
+
+## Writing
+
+I write after projects, products, and experiments have produced something worth examining.
+
+- [How Can Personal Experience Become an Asset in the AI Era?](https://www.darren-su.com/en/blog/turning-expertise-into-an-asset)
+- [Managing 31 AI Employees Changed How I Understand Management](https://www.darren-su.com/en/blog/managing-31-ai-employees)
+- [Five Observations from Accompanying the SuperAI Team in Hangzhou and Shanghai](https://www.darren-su.com/en/blog/superai-china-ecosystem-visit)
+
+[Read all writing by Darren Su](https://www.darren-su.com/en/blog)
 
 ---
 
-**Darren Su / 苏鹏 / SuperSupeng** · Shanghai, China
+**Darren Su / 苏鹏 / SuperSupeng** · Hangzhou, China
 
-[Website](https://www.darren-su.com/en) · [GitHub](https://github.com/SuperSupeng) · [Datawhale](https://github.com/datawhalechina)
+[Website](https://www.darren-su.com/en) · [Work](https://www.darren-su.com/en/work) · [GitHub](https://github.com/SuperSupeng) · [Datawhale](https://github.com/datawhalechina)
