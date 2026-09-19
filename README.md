@@ -6,11 +6,11 @@
 
 **AI Products · Developer Communities · Technology Events — Hangzhou, China**
 
-Darren Su (苏鹏, [@SuperSupeng](https://github.com/SuperSupeng)) is a Hangzhou-based AI product builder and developer ecosystem organizer. He is a **Datawhale City Lead**, **AGI Villa co-founder**, and the builder behind **MatchPoint**.
+Darren Su (苏鹏, [@SuperSupeng](https://github.com/SuperSupeng)) is a Hangzhou-based AI product builder and developer ecosystem organizer. He is **Co-founder of MatchPoint & AGI Villa**, **Head of City Ecosystem at Datawhale**, an **n8n Ambassador**, and host of the podcast **Re:Organize / 《重新组织》**.
 
 I organize developer programs across China, help early AI products meet their first users, and continue building products of my own. My recent work spans nationwide community programs, product co-creation workshops, cross-border technology exchanges, and talks about working with AI agents.
 
-苏鹏常驻杭州，是一名 AI 产品构建者与开发者生态组织者。他发起和组织开发者项目，帮助早期 AI 产品接触首批用户，并持续构建 MatchPoint 等产品。
+苏鹏常驻杭州，是一名 AI 产品构建者与开发者生态组织者。**MatchPoint / AGI Villa 联合创始人**，**Datawhale 城市生态负责人**，**n8n Ambassador**，播客《重新组织》/ Re:Organize 主理人。他发起和组织开发者项目，帮助早期 AI 产品接触首批用户，并持续构建 MatchPoint 等产品。
 
 [Selected work](https://www.darren-su.com/en/work) · [MatchPoint](https://matchpoint.careers) · [Products](https://www.darren-su.com/en/build) · [Writing](https://www.darren-su.com/en/blog) · [About Darren](https://www.darren-su.com/en/about)
 
@@ -44,14 +44,18 @@ MatchPoint grew out of repeated conversations with founders about hiring. It hel
 
 ## Datawhale, Open Source, and Developer Communities
 
-I joined **Datawhale** in 2019 as an AI learner, then became a contributor, teaching assistant, organizer, and City Lead. The work taught me to see community as more than distribution: it is where trust, useful feedback, and opportunities become visible.
+I joined **Datawhale** in 2019 as an AI learner, then became a contributor, teaching assistant, organizer, and later **Head of City Ecosystem**. The work taught me to see community as more than distribution: it is where trust, useful feedback, and opportunities become visible.
 
 - **[Datawhale city and developer ecosystem](https://www.darren-su.com/en/work/datawhale-city-ecosystem):** city programs and developer community work across China.
 - **[VCED](https://github.com/datawhalechina/vced):** project lead for an open-source multimodal search and video editing project.
 - **[DOPMC](https://github.com/datawhalechina/DOPMC):** open project governance and contributor collaboration.
 - **[Team Learning](https://github.com/datawhalechina/team-learning):** structured, community-led learning across AI and software topics.
 
-As **AGI Villa co-founder**, I also work with AI founders and builders turning early ideas into products, workshops, and projects that can meet real users.
+As **AGI Villa co-founder**, I also work with AI founders and builders turning early ideas into products, workshops, and projects that can meet real users. I am also an **n8n Ambassador**.
+
+## Podcast
+
+**Re:Organize / 《重新组织》** — conversations with founders and operators about people, talent, and organizations in the AI age.
 
 ## Engineering Roots
 
@@ -73,4 +77,4 @@ I write after projects, products, and experiments have produced something worth 
 
 **Darren Su / 苏鹏 / SuperSupeng** · Hangzhou, China
 
-[Website](https://www.darren-su.com/en) · [Work](https://www.darren-su.com/en/work) · [GitHub](https://github.com/SuperSupeng) · [Datawhale](https://github.com/datawhalechina)
+[Website](https://www.darren-su.com/en) · [Work](https://www.darren-su.com/en/work) · [GitHub](https://github.com/SuperSupeng) · [X](https://x.com/zenshipai) · [Datawhale](https://github.com/datawhalechina)
