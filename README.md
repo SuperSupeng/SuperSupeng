@@ -35,6 +35,7 @@ MatchPoint grew out of repeated conversations with founders about hiring. It hel
 
 - **[GlobalTechEvents](https://www.globaltechevents.xyz):** a global technology event index for founders, builders, digital nomads, and remote communities.
 - **[Datawhale AI+X Events](https://aixevents.datawhale.cn):** a community calendar for practical AI meetups, workshops, hackathons, and co-creation programs.
+- **[观木 / Guanmu](https://guanmu.darren-su.com):** an interactive prototype for Chinese timber architecture — turn, take apart, and learn the parts of Dayun Temple’s Amitabha Hall (Pingshun, Shanxi).
 
 ## Datawhale, Open Source, and Developer Communities
 
