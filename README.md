@@ -4,7 +4,7 @@
 
 # Darren Su (苏鹏)
 
-**Co-founder @ MatchPoint & AGI Villa · Head of City Ecosystem @ Datawhale · n8n Ambassador · Host of Re:Organize 《重新组织》**
+**Co-founder @ MatchPoint & AGI Villa · Head of City Ecosystem @ Datawhale · n8n Ambassador · Host of Re:Organize**
 
 AI product builder and developer ecosystem organizer based in Hangzhou, China. I organize developer programs across China, help early AI products meet their first users, and keep building products of my own.
 
