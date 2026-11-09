@@ -8,7 +8,7 @@
 
 AI product builder and developer ecosystem organizer based in Hangzhou, China. I organize developer programs across China, help early AI products meet their first users, and keep building products of my own.
 
-**[X @zenshipai](https://x.com/zenshipai)** · **[Substack: China AI, On the Ground](https://darrensu101.substack.com)** · **[Website: darren-su.com](https://darren-su.com)** · **[MatchPoint](https://matchpoint.careers)**
+**[X @zenshipai](https://x.com/zenshipai)** · **[Substack: China AI, On the Ground](https://darrensu101.substack.com)** · **[Website: darren-su.com](https://darren-su.com)**
 
 苏鹏，常驻杭州。MatchPoint / AGI Villa 联合创始人，Datawhale 城市生态负责人，n8n Ambassador，播客《重新组织》主理人。
 
@@ -25,9 +25,9 @@ AI product builder and developer ecosystem organizer based in Hangzhou, China. I
 
 ## Building Products
 
-### [MatchPoint — career exploration grounded in human evidence](https://matchpoint.careers)
+### MatchPoint — career exploration grounded in human evidence
 
-MatchPoint grew out of repeated conversations with founders about hiring. It helps people explore roles and represent how they think and act through AI career conversations, job-specific deep dives, and traceable behavioral evidence. The product is live at [matchpoint.careers](https://matchpoint.careers).
+MatchPoint grew out of repeated conversations with founders about hiring. It helps people explore roles and represent how they think and act through AI career conversations, job-specific deep dives, and traceable behavioral evidence.
 
 **AI CAREER CONVERSATIONS** · **TRACEABLE EVIDENCE** · **MCP** · **HUMAN AGENCY**
 
@@ -74,4 +74,4 @@ On my website, I write after projects, products, and experiments have produced s
 
 **Darren Su / 苏鹏 / SuperSupeng** · Hangzhou, China
 
-[X](https://x.com/zenshipai) · [Substack](https://darrensu101.substack.com) · [Website](https://darren-su.com) · [Projects](https://www.darren-su.com/en/projects) · [MatchPoint](https://matchpoint.careers) · [GitHub](https://github.com/SuperSupeng) · [Datawhale](https://github.com/datawhalechina)
+[X](https://x.com/zenshipai) · [Substack](https://darrensu101.substack.com) · [Website](https://darren-su.com) · [Projects](https://www.darren-su.com/en/projects) · [GitHub](https://github.com/SuperSupeng) · [Datawhale](https://github.com/datawhalechina)
