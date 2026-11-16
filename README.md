@@ -62,6 +62,8 @@ I started from engineering and still use that discipline in community and produc
 
 **[China AI, On the Ground](https://darrensu101.substack.com)** (Substack) — a ground-level guide to China's AI ecosystem for global founders and builders.
 
+- [AI Works at Machine Speed, Yet Gave Itself a Human Schedule](https://darrensu101.substack.com/p/ai-works-at-machine-speed-yet-gave)
+
 On my website, I write after projects, products, and experiments have produced something worth examining:
 
 - [How Can Personal Experience Become an Asset in the AI Era?](https://www.darren-su.com/en/blog/turning-expertise-into-an-asset)
